@@ -1,3 +1,15 @@
+# Examples of escaping in strings:
+
+puts 'You\'re swell!'
+puts 'backslashe at the of a string: \\'
+puts 'up\\down'
+puts 'up\down'
+
+
+
+
+
+
 puts "This is a string manipulation excercises"
 puts "Two plus two is #{ 2 + 2}"
 puts 'Two plus two is #{ 2 + 2}'
